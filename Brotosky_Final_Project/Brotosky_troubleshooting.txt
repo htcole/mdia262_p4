@@ -1,0 +1,13 @@
+Troubleshooting Document
+
+I made a game where you guess what each image drawn is, eventually guessing all 10, getting to the
+joke picture at the end.
+Issues that I had while working on this were mostly with how to ask the questions. The way 
+it is structured now is fine, but I wanted to try and put each function in a list to ask them randomly
+instead of in the same order everytime, but couldn't figure it out. I researched online to see if it 
+was possible and I found mixed reviews, with some people explaining some things but I couldn't
+ understand, or saying that it wasn't possible in Python. I just decided to work with what I knew,
+leading to the final result. 
+I searched the web for different logos and pictures that most people would know and that were cool, 
+as brand logos, animals, superheros, etc. I included a list of sources for where I found each image at
+end of the code doc.

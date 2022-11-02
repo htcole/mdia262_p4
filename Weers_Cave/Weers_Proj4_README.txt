@@ -1,0 +1,7 @@
+Overall this project has been pretty fun to figure out how all these systems work together and reverse engineering the code to implement my own features. Firstly, I pulled out the ui and added my own HUD which displays the amount of boost the player has and how far away the player is from the top of the cave.
+
+I also changed some of the values of the cave generation so it is a bit more open which is way more fun to traverse than before. Compared to the original game I added upward thrusting combined with the use of an acceleration value to mimic the feeling of gravity acting on the player, both moving upwards and falling.
+
+In addition, I altered the cave generation further to box off the sides and bottom of the cave, so only the top portion is open. This keeps the player from breaking the game by escaping out of any opening other than the "finish line". As well, I made a ui popup which congratulates the player upon exiting the cave.
+
+Implementing particle systems and audio ended up being way more complicated than anticipated so unfortunately those had to be cut from the final prototype. However, there is solid gameplay and a clear goal which the player can achieve so I am satisfied with the result.

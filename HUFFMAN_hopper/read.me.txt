@@ -1,0 +1,8 @@
+You play this game by using the 'a' and 'd' keys
+
+
+this game was inspired by the classic doodle jump. I relied on a youtube tutorial (https://www.youtube.com/watch?v=5FMPAt0n3Nc&ab_channel=CodingWithRuss) to construct 
+it but changed the name of many of the variables and made all of the visual assets myself. I also included many more notes within the code than the tutorial to help
+me understand what the code met if i ran into any issues. The only issues i ran into were not capitalizing some words such as 'True' and errors would pop up
+because i never made a definition for the lowercase versions of the word. other issues included imroper indenting of If statments which would not always show up as an 
+error but would'nt apply the statement. If i were to continue the project i would want to add things like a score counter, sliding carrots, and enemies. 
